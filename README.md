@@ -1,4 +1,4 @@
-# instalar-odoo-wkhtmltopdf
+# Instalar wkhtmltopdf para linu
 
 ```
 sudo apt-get -f install
