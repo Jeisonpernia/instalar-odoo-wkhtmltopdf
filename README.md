@@ -1,4 +1,4 @@
-# Instalar wkhtmltopdf para linu
+# Instalar wkhtmltopdf para linux
 
 ```
 sudo apt-get -f install
