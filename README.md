@@ -1,4 +1,4 @@
-# Instalar wkhtmltopdf para linux
+# Instalar wkhtmltopdf en Linux para Utilizarlo en Odoo
 
 
 Opcional
