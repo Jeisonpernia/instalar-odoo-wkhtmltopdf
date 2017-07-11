@@ -1,7 +1,12 @@
 # Instalar wkhtmltopdf para linux
 
+
+Opcional
 ```
 sudo apt-get -f install
+```
+
+```
 sudo apt-get install libxrender1 fontconfig xvfb libjpeg-turbo8
 cd /opt
 git clone https://github.com/falconsoft3d/instalar-odoo-wkhtmltopdf
