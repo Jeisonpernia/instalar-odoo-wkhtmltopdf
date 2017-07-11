@@ -6,6 +6,7 @@ Opcional
 sudo apt-get -f install
 ```
 
+Obligatorio
 ```
 sudo apt-get install libxrender1 fontconfig xvfb libjpeg-turbo8
 cd /opt
